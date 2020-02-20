@@ -19,6 +19,7 @@
   "devDependencies": {
     "@babel/core": "7.6.2",
     "babel-preset-expo": "^7.0.0",
+    "vue-card": "^1.1.0",
     "vue-native-scripts": "0.1.4"
   },
   "private": true
