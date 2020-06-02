@@ -13,7 +13,7 @@
     "react": "16.8.3",
     "react-dom": "16.13.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
-    "react-native-web": "^0.12.2",
+    "react-native-web": "^0.12.3",
     "vue-native-core": "0.1.4",
     "vue-native-helper": "0.1.4"
   },
